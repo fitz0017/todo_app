@@ -2,7 +2,8 @@
 
 This is a simple ToDo app using JS and React with some Bootstrap styling.
 
-![Screen Shot 2023-05-31 at 1 09 49 PM](https://github.com/fitz0017/todo_app/assets/11213335/905dc73d-b6c6-47d6-907b-f4a77be420af)
+
+![Screen Shot 2023-05-31 at 1 23 41 PM](https://github.com/fitz0017/todo_app/assets/11213335/d31aa465-2f6e-483a-bdd6-def363361a10)
 
 
 ##Get it Running
