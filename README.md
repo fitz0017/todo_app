@@ -8,7 +8,7 @@ This is a simple ToDo app using JS and React with some Bootstrap styling.
 ##Get it Running
 You can run it locally with a light HTTP server.
 
-1. Simply type ToDO items into the form at the bottom on the page and click add or press `enter` 
+1. Simply type your ToDo items into the form at the bottom on the page and click add or press `enter` 
 2. To remove items, click `Done` next to the list item.
 
 ##Roadmap
